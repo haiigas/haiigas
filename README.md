@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Gagas
-now I work as an IT team in the Web Developer and Android Developer.
+now I work as an IT team in the Web Developer and Android Developer.😄
 
 ### Get in touch
 - Website : https://teknowebapp.com
@@ -7,3 +7,5 @@ now I work as an IT team in the Web Developer and Android Developer.
 - Twitter : https://twitter.com/haiigas
 - Instagram : https://instagram.com/haiigas
 - Linkendin : https://linkedin.com/in/haiigas
+
+<img src="https://github-readme-stats.vercel.app/api?username=teknowebapp&show_icons=true">
