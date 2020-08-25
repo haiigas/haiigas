@@ -1,4 +1,4 @@
-## Hi there 👋 I am Gagas
+# Hi there 👋 I am Gagas
 now I work as an IT team in the Web Developer and Android Developer.😄
 
 ### Get in touch
