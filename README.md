@@ -8,5 +8,5 @@ Now I work as an IT team at Web Developer and Android Developer.😄
 - Instagram : https://instagram.com/haiigas
 - Linkendin : https://linkedin.com/in/haiigas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiigas&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=haiigas&show_icons=true">
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiigas&layout=compact"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=haiigas&show_icons=true"></a>
