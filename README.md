@@ -1,6 +1,6 @@
 # Hi there 👋 I am Gagas
 Now I work as an IT team at Web Developer and Android Developer.😄
-
+![](https://komarev.com/ghpvc/?username=regchiu&color=blueviolet&style=flat-square)
 ### Get in touch
 - Website : https://teknowebapp.com
 - Facebook : https://facebook.com/gagas.sp
