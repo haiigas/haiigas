@@ -1,12 +1,9 @@
-# Hi there 👋 I am Gagas
-Now I work as an IT team at Web Developer and Android Developer.😄
+## Hi there 👋 I am Gagas!
+Hello, introduce me to Gagas Sangga Pratama, a Fullstack Developer at CV. Technology Friendly and Director at PT. Pratama Solusi Teknologi, also the owner of [@teknowebapp](https://github.com/teknowebapp). I live in Pemalang, Central Java.
 
-### Get in touch
-- Website : https://teknowebapp.com
-- Facebook : https://facebook.com/gagas.sp
-- Twitter : https://twitter.com/haiigas
-- Instagram : https://instagram.com/haiigas
-- Linkendin : https://linkedin.com/in/haiigas
-
-<a href="https://github.com/haiigas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiigas&layout=compact&hide_border=true"></a>
-<a href="https://github.com/haiigas"><img src="https://github-readme-stats.vercel.app/api?username=haiigas&show_icons=true&hide_border=true&hide=issues"></a>
+### Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
+[![Instagram](https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haiigas)
+[![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/haiigas)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haiigas)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haiigas)
