@@ -3,7 +3,7 @@ Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi T
 
 [![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-%233DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/studio)
-[![GitHub](https://img.shields.io/badge/Tools-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/Tools-Git-%23F05032?style=flat-square&logo=git&logoColor=white)](https://github.com)
 [![Postman](https://img.shields.io/badge/Tools-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com)
 [![CodeIgniter](https://img.shields.io/badge/Framework-CodeIgniter-%23EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com)
 [![Laravel](https://img.shields.io/badge/Framework-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
