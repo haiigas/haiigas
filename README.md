@@ -7,7 +7,7 @@ Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi T
 [![Postman](https://img.shields.io/badge/Tools-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com)
 [![CodeIgniter](https://img.shields.io/badge/Framework-CodeIgniter-%23EF4223?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com)
 [![Laravel](https://img.shields.io/badge/Framework-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![Flutter](https://img.shields.io/badge/Framework-Flutter-%2302569B?style=flat-square&logo=laravel&logoColor=white)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Framework-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Ionic](https://img.shields.io/badge/Framework-Ionic-%233880FF?style=flat-square&logo=ionic&logoColor=white)](https://ionicframework.com)
 [![Fedora](https://img.shields.io/badge/OS-Fedora-%23294172?style=flat-square&logo=fedora&logoColor=white)](https://getfedora.org)
 [![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
