@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Gagas!
-Hello, introduce me to Gagas Sangga Pratama, a Fullstack Developer at CV. Technology Friendly and Director at PT. Pratama Solusi Teknologi, also the owner of [@teknowebapp](https://github.com/teknowebapp). I live in Pemalang, Central Java.
+Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi Teknologi](https://pratamatechsolution) and Fullstack Developer at [CV. Ramah Teknologi](https://ramahteknologi.com), also the owner of [@teknowebapp](https://github.com/teknowebapp). I live in Pemalang, Central Java.
 
 ### Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
