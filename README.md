@@ -20,3 +20,4 @@ Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi T
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/haiigas)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haiigas)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haiigas)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com/haiigas)
