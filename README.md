@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Gagas!
-Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id) and Fullstack Developer at [CV. Ramah Teknologi](https://ramahteknologi.com), also the owner of [@teknowebapp](https://github.com/teknowebapp). I live in Pemalang, Central Java.
+Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id) and Fullstack Developer at [CV. Ramah Teknologi](https://ramahteknologi.com), also the owner of [@teknowebapp](https://teknowebapp.com). I live in Pemalang, Central Java.
 
 [![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-%233DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/studio)
