@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, introduce me to Gagas Sangga Pratama, a CEO & Founder at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id), also the owner of [@teknowebapp](https://teknowebapp.com). I live in Pemalang, Central Java.
+Introduce me to Gagas Sangga Pratama, a CEO & Founder at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id), also the owner of [@teknowebapp](https://teknowebapp.com). I live in Pemalang, Central Java.
 
 #### About me
 
