@@ -7,6 +7,7 @@ Hello, introduce me to Gagas Sangga Pratama, a CEO & Founder at [PT. Pratama Sol
 - 📫 How to reach me: [office@pratamatechsolution.co.id](mailto:office@pratamatechsolution.co.id?subject=Reach%20From%20Github).
 
 #### Connect with me
+let's be friends with me and make relation.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
 [![Twitter](https://img.shields.io/twitter/follow/haiigas?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/haiigas)
