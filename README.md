@@ -1,4 +1,4 @@
-## Hi there 👋 I am Gagas!
+## Hi there 👋
 Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id), also the owner of [@teknowebapp](https://teknowebapp.com). I live in Pemalang, Central Java.
 
 [![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
@@ -14,7 +14,7 @@ Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi T
 [![CentOS](https://img.shields.io/badge/OS-CentOS-%23E95420?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org)
 [![Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com)
 
-### Let's Connect!
+#### Let's Connect!
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haiigas)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/haiigas)
