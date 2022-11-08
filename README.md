@@ -5,6 +5,7 @@ Hello, introduce me to Gagas Sangga Pratama, a CEO & Founder at [PT. Pratama Sol
 
 - 🔭 I’m currently working at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id) as CEO & Founder.
 - 📫 How to reach me: [office@pratamatechsolution.co.id](mailto:office@pratamatechsolution.co.id?subject=Reach%20From%20Github).
+- 🏫 I graduated from STT Bandung with a S.Kom degree majoring in Informatics Engineering.
 
 #### Connect with me
 let's be friends with me and make relation.
