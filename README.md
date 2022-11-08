@@ -14,7 +14,7 @@ Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi T
 [![CentOS](https://img.shields.io/badge/OS-CentOS-%23E95420?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org)
 [![Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com)
 
-#### :speak_no_evil: Let's Connect!
+##### :speak_no_evil: Let's Connect!
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haiigas)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/haiigas)
