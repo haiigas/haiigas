@@ -1,5 +1,19 @@
 ## Hi there 👋
-Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id), also the owner of [@teknowebapp](https://teknowebapp.com). I live in Pemalang, Central Java.
+Hello, introduce me to Gagas Sangga Pratama, a CEO & Founder at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id), also the owner of [@teknowebapp](https://teknowebapp.com). I live in Pemalang, Central Java.
+
+#### About me
+
+- 🔭 I’m currently working at [PT. Pratama Solusi Teknologi](https://pratamatechsolution.co.id) as CEO & Founder.
+- 📫 How to reach me: [office@pratamatechsolution.co.id](mailto:office@pratamatechsolution.co.id?subject=Reach%20From%20Github).
+
+#### Connect with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
+[![Twitter](https://img.shields.io/twitter/follow/haiigas?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/haiigas)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/haiigas)
+[![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fteknowebapp.com)](https://teknowebapp.com)
+
+#### Platform & Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/Tools-Visual%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 [![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-%233DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/studio)
@@ -13,9 +27,3 @@ Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi T
 [![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-%23E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com)
 [![CentOS](https://img.shields.io/badge/OS-CentOS-%23E95420?style=flat-square&logo=centos&logoColor=white)](https://www.centos.org)
 [![Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com)
-
-##### :speak_no_evil: Let's Connect!
-[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
-[![Twitter](https://img.shields.io/twitter/follow/haiigas?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/haiigas)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/haiigas)
-[![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fteknowebapp.com)](https://teknowebapp.com)
