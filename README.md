@@ -15,9 +15,7 @@ Hello, introduce me to Gagas Sangga Pratama, a Director at [PT. Pratama Solusi T
 [![Linux Mint](https://img.shields.io/badge/OS-Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)](https://linuxmint.com)
 
 ##### :speak_no_evil: Let's Connect!
-[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haiigas)
-[![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/haiigas)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haiigas)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haiigas)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.gitlab.com/haiigas)
+[![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
+[![Twitter](https://img.shields.io/twitter/follow/suluh_s?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/haiigas)
+[![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/haiigas)
+[![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fteknowebapp.com)](https://teknowebapp.com)
