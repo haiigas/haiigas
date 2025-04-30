@@ -1,9 +1,8 @@
 ## Hi there 👋
-Introduce me to Gagas Sangga Pratama, a CEO & Founder at [PT Pratama Solusi Teknologi](https://pratamatechsolution.co.id), also the owner of [@teknowebapp](https://teknowebapp.com). I live in Pemalang, Central Java.
+Introduce me to Gagas Sangga Pratama, a software engineer from Indonesia. 9+ years of experience in web and mobile development.
 
 #### About me
 
-- :telescope: I’m currently working at [PT Pratama Solusi Teknologi](https://pratamatechsolution.co.id) as CEO & Founder.
 - :school: I graduated from [Universitas Teknologi Bandung](https://utb-univ.ac.id) with a S.Kom degree majoring in Informatics Engineering.
 - :mailbox: How to reach me? [gagas@pakai.email](mailto:gagas@pakai.email?subject=Reach%20From%20Github).
 
