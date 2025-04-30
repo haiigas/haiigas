@@ -1,5 +1,5 @@
 ## Hi there 👋
-Introduce me to Gagas Sangga Pratama, a software engineer from Indonesia. 9+ years of experience in web and mobile development.
+Introduce me to Gagas Sangga Pratama, a software engineer from Indonesia. 5+ years of experience in web and mobile development.
 
 #### About me
 
