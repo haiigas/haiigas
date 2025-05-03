@@ -3,8 +3,8 @@ Introduce me to Gagas Sangga Pratama, a software engineer from Indonesia. 5+ yea
 
 #### About me
 
-- :school: I graduated from [Universitas Teknologi Bandung](https://utb-univ.ac.id) with a S.Kom degree majoring in Informatics Engineering.
-- :mailbox: How to reach me? [hello@gagas.web.id](mailto:hello@gagas.web.id?subject=Reach%20From%20Github).
+- I graduated from [Universitas Teknologi Bandung](https://utb-univ.ac.id) with a S.Kom degree majoring in Informatics Engineering.
+- How to reach me? [hello@gagas.web.id](mailto:hello@gagas.web.id?subject=Reach%20From%20Github).
 
 #### Connect with me
 let's be friends with me and make relation.
