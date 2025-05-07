@@ -12,7 +12,7 @@ let's be friends with me and make relation.
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/gagas.sp)
 [![Twitter](https://img.shields.io/twitter/follow/haiigas?label=Twitter&logo=twitter&style=flat-square)](https://www.twitter.com/haiigas)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/haiigas)
-[![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fteknowebapp.com)](https://teknowebapp.com)
+[![Website](https://img.shields.io/website?label=Website&logo=google-chrome&style=flat-square&down_color=lightgrey&down_message=Down&up_color=blue&up_message=Up&url=https%3A%2F%2Fgagas.web.id)](https://gagas.web.id)
 
 #### Platform & Tools
 
