@@ -5,8 +5,7 @@ Introduce me to Gagas Sangga Pratama, a software engineer from Indonesia. 5+ yea
 let's be friends with me and make relation.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/haiigas)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haiigas)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hello@gagas.web.id)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@gagas.web.id)
 
 #### Platform & Tools
 
