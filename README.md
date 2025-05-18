@@ -1,16 +1,12 @@
 ## Hi there 👋
 Introduce me to Gagas Sangga Pratama, a software engineer from Indonesia. 5+ years of experience in web and mobile development.
 
-#### About me
-
-- I graduated from [Universitas Teknologi Bandung](https://utb-univ.ac.id) with a S.Kom degree majoring in Informatics Engineering.
-- How to reach me? [hello@gagas.web.id](mailto:hello@gagas.web.id?subject=Reach%20From%20Github).
-
 #### Connect with me
 let's be friends with me and make relation.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/haiigas)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haiigas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hello@gagas.web.id)
 
 #### Platform & Tools
 
