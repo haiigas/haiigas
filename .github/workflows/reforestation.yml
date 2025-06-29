@@ -22,12 +22,12 @@ jobs:
 
       - name: Commit Changes 🥴
         run: |
-          git config --local user.email "info.gagassp@gmail.com"
+          git config --local user.email "gagas.repository@gmail.com"
           git config --local user.name "haiigas"
           git add --all
 
           date=$(date '+%Y-%m-%d %H:%M:%S')
-          git commit -m "green update [$date]"
+          git commit -m "it's green [$date]"
 
       - name: GitHub Push 🌠
         uses: ad-m/github-push-action@master
