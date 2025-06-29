@@ -12,15 +12,15 @@ jobs:
   reforestation:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Modify Last Update 👻
+      - name: Modify Last Update
         run: |
           chmod +x ./reforestation/run.sh
           ./reforestation/run.sh
 
-      - name: Commit Changes 🥴
+      - name: Commit
         run: |
           git config --local user.email "gagas.repository@gmail.com"
           git config --local user.name "haiigas"
@@ -29,7 +29,7 @@ jobs:
           date=$(date '+%Y-%m-%d %H:%M:%S')
           git commit -m "it's green [$date]"
 
-      - name: GitHub Push 🌠
+      - name: Push
         uses: ad-m/github-push-action@master
         with:
           force: true
